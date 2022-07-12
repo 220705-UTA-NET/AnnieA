@@ -7,11 +7,11 @@ namespace REInvestment
         static void Main(string[] args)
         {
             Console.WriteLine("REAL ESTATE Property Investment");
-            Console.WriteLine("(To Buy OR Not To Buy)");
-            Console.WriteLine(" ");
+            Console.WriteLine("(To Buy OR Not To Buy)\n");
+            
             Console.Write("Enter Property Address:    ");
             string propertyAddress = Console.ReadLine();    // user inputs the property address
-                   
+
             int inputAskingPrice;
             bool testAskingPrice;
             do // run the loop at least once
@@ -45,7 +45,23 @@ namespace REInvestment
             } while (!testArv); // while the test variable is false, keep looping
 
             Console.WriteLine(" ");
-           
+
+            int projectCostPercentage;
+            projectCostPercentage = (inputAskingPrice + inputRepairEstimate) / inputArv;
+            string strPCP = Convert.ToString(projectCostPercentage);
+
+            if (projectCostPercentage <= .70)
+            {
+                
+                Console.WriteLine("Your Project Cost Percentage is: " + strPCP + "%");
+                Console.WriteLine("BUY!");
+
+            }
+            else if (projectCostPercentage > .70)
+            {
+                Console.WriteLine("Your Project Cost Percentage is: " + strPCP + "%");
+                Console.WriteLine("NOT TO BUY!");
+            }   
         }
     }
 }
