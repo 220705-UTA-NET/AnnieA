@@ -66,25 +66,25 @@ namespace StringManipulationChallenge
         // 2) print the result to the console and 
         // 3) return the new string.
 
-        // public static string StringTrim(string x){
-           // x = x.String.Trim();
-           // Console.WriteLine(x);
-            //return x;
+        public static string StringTrim(string x){
+            x = x.String.Trim();
+            Console.WriteLine(x);
+            return x;
             //throw new NotImplementedException("StringTrim method not implemented.");
 
-        //}
+        }
         
         // This method has two parameters, one string and one integer. 
         // It will:
         // 1) get the substring based on the integer received, 
         // 2) print the result to the console and 
         // 3) return the new string.
-        //public static string StringSubstring(string x, int elementNum){
-            //string foundSubstring = x.String.Subtring(x);
-            //Console.WriteLine(foundSubstring);
+        public static string StringSubstring(string x, int elementNum){
+            string foundSubstring = x.String.Subtring(x);
+            Console.WriteLine(foundSubstring);
             //throw new NotImplementedException("StringSubstring method not implemented.");
 
-        //}
+        }
 
         // This method has two parameters, one string and one char.
         // It will:

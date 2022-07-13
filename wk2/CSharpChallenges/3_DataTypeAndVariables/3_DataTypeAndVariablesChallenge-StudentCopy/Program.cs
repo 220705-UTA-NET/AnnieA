@@ -7,29 +7,29 @@ namespace _3_DataTypeAndVariablesChallenge
       public static void Main(string[] args)
       {
 
-          byte myByte = 
+          byte myByte = 1;
 
-          sbyte mySbyte = 
+          sbyte mySbyte = 4;
 
-          int myInt = 
+          int myInt = 0;
 
-          uint myUint = 
+          uint myUint = 8;
 
-          short myShort = 
+          short myShort = 1;
 
-          ushort myUShort = 
+          ushort myUShort = 1;
 
-          float myFloat =
+          float myFloat = 11.5F;
 
-          double myDouble = 
+          double myDouble = 90.5;
 
-          char myCharacter = 
+          char myCharacter = 'a';
 
-          bool myBool = 
+          bool myBool = true;
 
-          string myText = 
+          string myText = "This is a string.";
 
-          string numText = 
+          string numText = "100";
       }
 
       public static int Text2Num(string numText)
