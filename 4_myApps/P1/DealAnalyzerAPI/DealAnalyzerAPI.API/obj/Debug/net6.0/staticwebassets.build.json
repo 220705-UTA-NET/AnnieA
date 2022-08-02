@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "abL1urc96AOoX4Nwbq/ZynTA7bqc7segeJfqvwybMKM=",
+  "Source": "DealAnalyzerAPI.API",
+  "BasePath": "_content/DealAnalyzerAPI.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

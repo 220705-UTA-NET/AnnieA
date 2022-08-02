@@ -1,0 +1,15 @@
+C:\Users\annie\AnnieA\4_myApps\P1\DealAnalyzerAPI.App\bin\Debug\net6.0\DealAnalyzerAPI.App.exe
+C:\Users\annie\AnnieA\4_myApps\P1\DealAnalyzerAPI.App\bin\Debug\net6.0\DealAnalyzerAPI.App.deps.json
+C:\Users\annie\AnnieA\4_myApps\P1\DealAnalyzerAPI.App\bin\Debug\net6.0\DealAnalyzerAPI.App.runtimeconfig.json
+C:\Users\annie\AnnieA\4_myApps\P1\DealAnalyzerAPI.App\bin\Debug\net6.0\DealAnalyzerAPI.App.dll
+C:\Users\annie\AnnieA\4_myApps\P1\DealAnalyzerAPI.App\bin\Debug\net6.0\DealAnalyzerAPI.App.pdb
+C:\Users\annie\AnnieA\4_myApps\P1\DealAnalyzerAPI.App\obj\Debug\net6.0\DealAnalyzerAPI.App.csproj.AssemblyReference.cache
+C:\Users\annie\AnnieA\4_myApps\P1\DealAnalyzerAPI.App\obj\Debug\net6.0\DealAnalyzerAPI.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annie\AnnieA\4_myApps\P1\DealAnalyzerAPI.App\obj\Debug\net6.0\DealAnalyzerAPI.App.AssemblyInfoInputs.cache
+C:\Users\annie\AnnieA\4_myApps\P1\DealAnalyzerAPI.App\obj\Debug\net6.0\DealAnalyzerAPI.App.AssemblyInfo.cs
+C:\Users\annie\AnnieA\4_myApps\P1\DealAnalyzerAPI.App\obj\Debug\net6.0\DealAnalyzerAPI.App.csproj.CoreCompileInputs.cache
+C:\Users\annie\AnnieA\4_myApps\P1\DealAnalyzerAPI.App\obj\Debug\net6.0\DealAnalyzerAPI.App.dll
+C:\Users\annie\AnnieA\4_myApps\P1\DealAnalyzerAPI.App\obj\Debug\net6.0\refint\DealAnalyzerAPI.App.dll
+C:\Users\annie\AnnieA\4_myApps\P1\DealAnalyzerAPI.App\obj\Debug\net6.0\DealAnalyzerAPI.App.pdb
+C:\Users\annie\AnnieA\4_myApps\P1\DealAnalyzerAPI.App\obj\Debug\net6.0\DealAnalyzerAPI.App.genruntimeconfig.cache
+C:\Users\annie\AnnieA\4_myApps\P1\DealAnalyzerAPI.App\obj\Debug\net6.0\ref\DealAnalyzerAPI.App.dll
